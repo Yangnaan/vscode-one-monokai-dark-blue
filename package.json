@@ -1,8 +1,8 @@
 {
-  "name": "one-monokai-dark-blue",
-  "displayName": "One Monokai Dark Blue",
-  "description": "A theme base on one monokai from Azemoh, with color of function and local variables tweaked.",
-  "version": "0.0.7",
+  "name": "one-monokai-dark-soft",
+  "displayName": "One Monokai Dark Soft",
+  "description": "A theme base on one monokai from Azemoh, using soft colors.",
+  "version": "0.0.1",
   "publisher": "Yangnan",
   "engines": {
     "vscode": "^1.13.0"
@@ -14,15 +14,15 @@
   "contributes": {
     "themes": [
       {
-        "label": "One Monokai Dark Blue",
+        "label": "One Monokai Dark Soft",
         "uiTheme": "vs-dark",
-        "path": "./themes/one monokai dark blue-color-theme.json"
+        "path": "./themes/one monokai dark soft-color-theme.json"
       }
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Yangnaan/vscode-one-monokai-dark-blue"
+    "url": "https://github.com/Yangnaan/vscode-one-monokai-dark-soft"
   },
 "license": "MIT"
 }
